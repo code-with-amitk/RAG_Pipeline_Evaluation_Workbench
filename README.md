@@ -7,4 +7,5 @@ RAG pipeline fetches security logs data from sql DB, answer user Queries(using L
 
 1. [Enviornment Setup](./Documentation/Enviornment_setup.md)
 2. [Data Preparation](./Documentation/Preparing_data.md)
-3. [RAG Pipeline Phases](./Documentation/Pipeline_Phases.md)
+3. [RAG(Retrieval-Augmented Generation) Pipeline Stages](./Documentation/RAG_Pipeline.md)
+4. [Validating RAG using RAGAS(Retrieval Augmented Generation Assessment)](./Documentation/RAGAS_tests.md)

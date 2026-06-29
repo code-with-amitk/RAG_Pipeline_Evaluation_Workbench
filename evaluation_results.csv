@@ -1,0 +1,3 @@
+id,question,ground_truth,answer,difficulty,category,faithfulness,answer_relevancy,context_precision,context_recall
+1,What destination IP was blocked when source 10.1.1.5 attempted outbound traffic at 2025-05-01 08:02:11?,8.8.8.8. The firewall log shows: 2025-05-01 08:02:11 FIREWALL_DENY src=10.1.1.5 dst=8.8.8.8 policy=OUTBOUND_BLOCK.,The destination IP that was blocked when source 10.1.1.5 attempted outbound traffic at the specified time was 8.8.8.8.,easy,single-event lookup,1.0,,0.9999999999,1.0
+2,Which user had a successful VPN login at 2025-05-01 08:10:30?,alice.smith logged in successfully from IP 192.168.1.50 at 2025-05-01 08:10:30.,The user who had a successful VPN login at 2025-05-01 08:10:30 is alice.smith.,easy,single-event lookup,1.0,,0.9999999999,1.0
