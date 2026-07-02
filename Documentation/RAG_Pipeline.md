@@ -1,5 +1,8 @@
 # RAG Pipeline
-pipeline is defined in app.py
+
+What is [RAG](https://code-with-amitk.github.io/Machine%20Learning/RAG/Introduction.html)
+
+RAG pipeline is defined in app.py
 
 ## Retriever Phase
 ```py

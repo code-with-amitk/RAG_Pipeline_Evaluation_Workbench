@@ -1,4 +1,4 @@
-## Preparing data to feed pipeline
+## Preparing data to feed RAG pipeline
 
 ### DB File
 #### Creating [ingest_logs.py](../ingest_logs.py)
