@@ -12,7 +12,7 @@ INSERT INTO firewall_events
 INSERT INTO vpn_events
 ```
 
-#### Checking using pandas [sql_analysis](../sql_analysis.py)
+#### Checking using pandas [sql_analysis.py](../sql_analysis.py)
 - Read sql database using pandas read_sql_query() which executes the SQL query passed to and returns a [pandas dataframe](https://code-with-amitk.github.io/Machine%20Learning/Libraries/Pandas/Introduction.html)
 - Perform different queries on logs.db using pandas read_sql_query()
 

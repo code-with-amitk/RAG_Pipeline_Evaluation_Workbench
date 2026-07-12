@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "question": "What destination IP was blocked when source 10.1.1.5 attempted outbound traffic at 2025-05-01 08:02:11?",
+    "faithfulness": 1.0,
+    "answer_relevancy": NaN,
+    "category": "single-event lookup",
+    "difficulty": "easy",
+    "failure_reason": "answer_relevancy missing (NaN) \u2014 RAGAS embedding interface error during partial run; faithfulness and context metrics scored 1.0."
+  }
+]

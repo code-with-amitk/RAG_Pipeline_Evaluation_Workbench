@@ -1,0 +1,5 @@
+metric,count,mean,median,std
+faithfulness,2,1.0,1.0,0.0
+answer_relevancy,0,,,
+context_precision,2,0.9999999999,0.9999999999,0.0
+context_recall,2,1.0,1.0,0.0
